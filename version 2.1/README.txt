@@ -10,4 +10,4 @@ Key Features:
 
 New:
 > all fields are required - cannot be bypassed unless HTML-modified via inspect
-> SQL logs can be viewed via Web GUI: bleepinghost.online/FTP/logs
+> SQL logs can be viewed via Web GUI: bleepinghost.online/file-upload/logs
